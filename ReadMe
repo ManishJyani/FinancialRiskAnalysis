@@ -1,1 +1,17 @@
-Finanicial Risk Analysis
+Finanicial Risk Analysis:
+Rough plan:
+ -Read the docs regarding landing money 
+ -try to get the data of indian people
+ -clean the data
+ -decide the features
+ -build the model
+ -try test try test
+ -Think later how to deploy it
+
+
+DataSources:
+1 . KaggleData_01 : https://www.kaggle.com/datasets/kornilovag94/bank-credit-default-loan-default/data
+2.  KaggleData_02 : https://www.kaggle.com/datasets/nikhil1e9/loan-default
+
+Resources:
+1. Python of ISLR : https://github.com/JWarmenhoven/ISLR-python?tab=readme-ov-file
